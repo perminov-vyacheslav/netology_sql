@@ -1,1 +1,1 @@
-# netology_sql
+[Ссылка на задание](https://letsdocode.ru/sql-main/total)
